@@ -1,12 +1,7 @@
 <div align="center">
-
-#  ✦ SciEra ✦
-### *ScienceEra — A Letter from the Future of Intelligence*
-
-`[ TRANSMISSION // FROM THE HORIZON OF DISCOVERY ]`
-
-[中文](#zh) · [English](#en)
-
+  <img src="./assets/header.svg" alt="SciEra" width="100%" />
+  <br>
+  [中文](#zh) &nbsp;·&nbsp; [English](#en)
 </div>
 
 ---
