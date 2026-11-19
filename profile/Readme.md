@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ SciEra ✦
+#   SciEra ✦
 ### *ScienceEra — A Letter from the Future of Intelligence*
 
 `[ TRANSMISSION // FROM THE HORIZON OF DISCOVERY ]`
