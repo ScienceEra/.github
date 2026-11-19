@@ -1,7 +1,6 @@
 <div align="center">
   <img src="../assets/header.svg" alt="SciEra" width="100%" />
   <br>
-  [中文](#zh) &nbsp;·&nbsp; [English](#en)
 </div>
 
 ---
